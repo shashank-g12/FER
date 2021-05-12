@@ -1,1 +1,1 @@
-# FER
+# Facial emotion recognition
